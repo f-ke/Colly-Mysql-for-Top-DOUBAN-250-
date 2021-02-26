@@ -1,0 +1,10 @@
+server:
+  port: 1060
+datasource:
+  driverName: mysql
+  host: localhost
+  port: 3306
+  database: douban
+  username: root
+  password: fky1270048
+  charset: utf8
